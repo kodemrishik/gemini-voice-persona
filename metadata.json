@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Voice Persona",
+  "description": "A real-time voice interview bot powered by Gemini Live API that answers personal questions as an AI engineer.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
